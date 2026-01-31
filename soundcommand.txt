@@ -1,1 +1,1 @@
-2600-hz-wave.wav
+2600-hz-tone.wav
